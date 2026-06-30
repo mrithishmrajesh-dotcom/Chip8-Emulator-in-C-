@@ -2,6 +2,9 @@
 
 A fully working CHIP-8 emulator built from scratch using C# and Raylib.
 
+## Behind The Scenes
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/428ec3d7-4973-403b-a344-0c6b0669deb9" />
+
 ## Features
 - 4KB memory system
 - 16 registers + I register
